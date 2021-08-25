@@ -58,9 +58,11 @@ The **Plur-Ly World** will have a complete full-stack application with full CRUD
 
 
 -Tablet Views 
-  Horizontal will have the desktop version
-  Vertical will have the mobile version
-
+<br>
+  *Horizontal will have the desktop version
+  <br>
+  *Vertical will have the mobile version
+  <br>
 #### Component Tree
 
 
